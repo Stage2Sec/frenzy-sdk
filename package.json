@@ -1,0 +1,22 @@
+{
+  "name": "@stage2sec/frenzy-sdk",
+  "version": "0.1.0",
+  "description": "Typescript SDK for the frenzy slack bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stage2Sec/frenzy-sdk.git"
+  },
+  "keywords": [
+    "frenzy"
+  ],
+  "author": "Stage2Sec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stage2Sec/frenzy-sdk/issues"
+  },
+  "homepage": "https://github.com/Stage2Sec/frenzy-sdk#readme"
+}
